@@ -21,7 +21,7 @@ trap.isnebutrap(3, 2, "WaterTrap");
 
 ### `void on()` y `void off()`
 
-Enciende y apaga respectivamente los pines definidos para el objeto tipo `nebutrap`
+Enciende y apaga respectivamente los pines definidos para el objeto tipo `nebutrap`.
 **Uso:**
 ```cpp
 Trampa.on();
